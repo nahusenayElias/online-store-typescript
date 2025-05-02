@@ -18,7 +18,8 @@ This project is an online store application built using **Vite** and **TypeScrip
 - **React**: A JavaScript library for building user interfaces.
 - **Bootstrap**: For styling the application.
 
-![screenshot](/type-script/public/typescript.png)
+[![screenshot](src/assets/typescript.png)](/assets/typescript.png)
+
 
 ## Installation
 To set up the project, follow these steps:
